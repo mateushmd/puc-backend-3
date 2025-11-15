@@ -9,7 +9,7 @@ Este repositório contém os arquivos necessários para rodar uma mini loja util
 
 ## Professores responsáveis
 
-* [Roque Anderson Saldanha Teixeira]  
+* Roque Anderson Saldanha Teixeira
 
 ## Pré-requisitos
 

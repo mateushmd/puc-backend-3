@@ -5,24 +5,27 @@
             <ui:VisualElement name="header" style="flex-grow: 1; width: 100%; height: 20%; justify-content: center;">
                 <ui:Label text="Store" name="title" double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" style="color: rgb(255, 255, 255); -unity-text-align: upper-center; -unity-font-style: bold; font-size: 100px;" />
                 <ui:VisualElement name="currency-container" style="flex-grow: 1; position: absolute; top: 30px; left: auto; right: 30px; bottom: auto; width: auto; height: 100px; flex-direction: row; -unity-text-align: middle-center; -unity-font-style: bold; font-size: 60px;">
-                    <ui:Label text="Label" double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" style="color: rgb(255, 255, 255); -unity-text-align: middle-right;" />
+                    <ui:Label text="Label" double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" name="currency-text" style="color: rgb(255, 255, 255); -unity-text-align: middle-right;" />
                     <ui:VisualElement name="currency-image" style="flex-grow: 1; width: 100px; height: 100px; background-image: url(&quot;project://database/Assets/coin.png?fileID=2800000&amp;guid=92ca714cb59e3d94e8138ff0bcf959cd&amp;type=3#coin&quot;); margin-left: 30px;" />
                 </ui:VisualElement>
             </ui:VisualElement>
             <ui:VisualElement name="items-container" style="flex-grow: 1; width: 100%; height: 80%; flex-direction: row;">
                 <ui:VisualElement name="item1" class="item" style="flex-grow: 1;">
                     <ui:Label text="Label" name="item1-name" double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" class="item-name" />
-                    <ui:VisualElement name="item1-image" class="item-image" style="flex-grow: 1;" />
+                    <ui:Label text="Label" name="item1-description" class="item-description" />
+                    <ui:Label text="Label" name="item1-available" class="item-available" />
                     <ui:Button text="Buy" name="item1-button" class="item-button" />
                 </ui:VisualElement>
                 <ui:VisualElement name="item2" class="item" style="flex-grow: 1;">
                     <ui:Label text="Label" name="item2-name" double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" class="item-name" />
-                    <ui:VisualElement name="item2-image" class="item-image" style="flex-grow: 1;" />
+                    <ui:Label text="Label" name="item2-description" class="item-description" />
+                    <ui:Label text="Label" name="item2-available" class="item-available" />
                     <ui:Button text="Buy" name="item2-button" class="item-button" />
                 </ui:VisualElement>
                 <ui:VisualElement name="item3" class="item" style="flex-grow: 1;">
                     <ui:Label text="Label" name="item3-name" double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" class="item-name" />
-                    <ui:VisualElement name="item3-image" class="item-image" style="flex-grow: 1;" />
+                    <ui:Label text="Label" name="item3-description" class="item-description" />
+                    <ui:Label text="Label" name="item3-available" class="item-available" />
                     <ui:Button text="Buy" name="item3-button" class="item-button" />
                 </ui:VisualElement>
             </ui:VisualElement>

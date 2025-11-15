@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Espada de Fogo",
+    "price": 100,
+    "description": "Aumenta o ataque em 20%",
+    "available": false
+  },
+  {
+    "id": 2,
+    "name": "Poção de Vida",
+    "price": 40,
+    "description": "Restaura 50 HP",
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Armadura de Ferro",
+    "price": 75,
+    "description": "Melhora a defesa",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Escudo de Madeira",
+    "price": 25,
+    "description": "Proteção básica",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Anel da Velocidade",
+    "price": 60,
+    "description": "Aumenta a agilidade",
+    "available": false
+  },
+  {
+    "id": 6,
+    "name": "Varinha Mágica",
+    "price": 120,
+    "description": "Aumenta o poder mágico",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Elmo de Prata",
+    "price": 50,
+    "description": "Protege a cabeça",
+    "available": true
+  },
+  {
+    "id": 8,
+    "name": "Botas da Rapidez",
+    "price": 45,
+    "description": "Aumenta a velocidade de movimento",
+    "available": false
+  },
+  {
+    "id": 9,
+    "name": "Anel da Força",
+    "price": 80,
+    "description": "Aumenta o poder físico",
+    "available": true
+  },
+  {
+    "id": 10,
+    "name": "Capa da Invisibilidade",
+    "price": 500,
+    "description": "Concede invisibilidade temporária",
+    "available": false
+  },
+  {
+    "id": 11,
+    "name": "Espada de Ouro",
+    "price": 150,
+    "description": "Arma de alto ataque",
+    "available": true
+  },
+  {
+    "id": 12,
+    "name": "Elixir da Vida",
+    "price": 90,
+    "description": "Restaura 100 HP",
+    "available": false
+  },
+  {
+    "id": 13,
+    "name": "Escudo do Dragão",
+    "price": 180,
+    "description": "Defesa forte contra dragões",
+    "available": true
+  },
+  {
+    "id": 14,
+    "name": "Elmo da Sabedoria",
+    "price": 70,
+    "description": "Aumenta a inteligência",
+    "available": true
+  },
+  {
+    "id": 15,
+    "name": "Botas da Levitacão",
+    "price": 110,
+    "description": "Permite flutuar sobre o chão",
+    "available": false
+  },
+  {
+    "id": 16,
+    "name": "Amuleto da Proteção",
+    "price": 95,
+    "description": "Reduz o dano recebido",
+    "available": true
+  },
+  {
+    "id": 17,
+    "name": "Cajado de Fogo",
+    "price": 130,
+    "description": "Lança poderosos feitiços de fogo",
+    "available": true
+  },
+  {
+    "id": 18,
+    "name": "Escudo de Gelo",
+    "price": 85,
+    "description": "Congela inimigos ao contato",
+    "available": false
+  },
+  {
+    "id": 19,
+    "name": "Anel da Vida",
+    "price": 65,
+    "description": "Aumenta o HP máximo",
+    "available": true
+  },
+  {
+    "id": 20,
+    "name": "Espada do Raio",
+    "price": 175,
+    "description": "Adiciona dano elétrico aos ataques",
+    "available": true
+  }
+]
